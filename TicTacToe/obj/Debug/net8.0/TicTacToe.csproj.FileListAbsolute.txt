@@ -1,0 +1,14 @@
+/Users/gilsunshine/Documents/dev/TicTacToe/obj/Debug/net8.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gilsunshine/Documents/dev/TicTacToe/obj/Debug/net8.0/TicTacToe.AssemblyInfoInputs.cache
+/Users/gilsunshine/Documents/dev/TicTacToe/obj/Debug/net8.0/TicTacToe.AssemblyInfo.cs
+/Users/gilsunshine/Documents/dev/TicTacToe/obj/Debug/net8.0/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/gilsunshine/Documents/dev/TicTacToe/bin/Debug/net8.0/TicTacToe
+/Users/gilsunshine/Documents/dev/TicTacToe/bin/Debug/net8.0/TicTacToe.deps.json
+/Users/gilsunshine/Documents/dev/TicTacToe/bin/Debug/net8.0/TicTacToe.runtimeconfig.json
+/Users/gilsunshine/Documents/dev/TicTacToe/bin/Debug/net8.0/TicTacToe.dll
+/Users/gilsunshine/Documents/dev/TicTacToe/bin/Debug/net8.0/TicTacToe.pdb
+/Users/gilsunshine/Documents/dev/TicTacToe/obj/Debug/net8.0/TicTacToe.dll
+/Users/gilsunshine/Documents/dev/TicTacToe/obj/Debug/net8.0/refint/TicTacToe.dll
+/Users/gilsunshine/Documents/dev/TicTacToe/obj/Debug/net8.0/TicTacToe.pdb
+/Users/gilsunshine/Documents/dev/TicTacToe/obj/Debug/net8.0/TicTacToe.genruntimeconfig.cache
+/Users/gilsunshine/Documents/dev/TicTacToe/obj/Debug/net8.0/ref/TicTacToe.dll
